@@ -1,0 +1,25 @@
+_repo: Om-medeltidens-skadespel-och-deras-fortgang-till-sednare-tider-med-sarskildt-fastadt-afseende__52291
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ingelius, Gustaf Edvard
+    gutenberg_agent_id: '46765'
+    url: http://www.gutenberg.org/2009/agents/46765
+description: ''
+gutenberg_issued: '2016-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52291'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama -- History and criticism'
+- !lcsh 'Theater -- History'
+- !lcc 'PN'
+- !lcsh 'Chronander, Jacob Persson, approximately 1620-1694'
+- GITenberg
+title: "Om medeltidens skådespel\r\noch deras fortgång till sednare tider, med särskildt\
+  \ fästadt afseende vid Finlands äldste dramatiske författare Jakob Pehrsson Chronander"
+url: http://www.gutenberg.org/ebooks/52291
