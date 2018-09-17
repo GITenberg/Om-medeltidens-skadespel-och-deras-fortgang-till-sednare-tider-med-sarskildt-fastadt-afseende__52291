@@ -1,11 +1,16 @@
 _repo: Om-medeltidens-skadespel-och-deras-fortgang-till-sednare-tider-med-sarskildt-fastadt-afseende__52291
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ingelius, Gustaf Edvard
     gutenberg_agent_id: '46765'
     url: http://www.gutenberg.org/2009/agents/46765
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52291#Om-medeltidens-skadespel-och-deras-fortgang-till-sednare-tider-med-sarskildt-fastadt-afseende_
 gutenberg_issued: '2016-06-10'
 gutenberg_type: Text
 identifiers:
